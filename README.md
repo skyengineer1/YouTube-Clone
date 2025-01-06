@@ -14,9 +14,6 @@ A static clone of YouTube built with **HTML** and **CSS**. This project demonstr
 - `style.css`: Styling for the layout and design.
 - `header-images/`, `navbar-images/`, `video-images/`: Assets used in the design.
 
-## 📸 Preview
-![Preview Screenshot](path/to/your/screenshot.png)
-
 ## 💡 How to Use
 
 1. Clone the repository:
